@@ -1,14 +1,14 @@
 # Flames
 Its a Console Application for Find "F L A M E S".
 
-#Languages
+#Languages - 
 Core Java
 
-#Description
+#Description -
 You can get flames result  by using this App
 
-#Developer Details
+#Developer Details -
 ThiruMurugan
 
-#Version
+#Version -
 1.0
